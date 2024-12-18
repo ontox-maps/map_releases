@@ -1,0 +1,15 @@
+FILE	POLYGON	LINK_TYPE	LINK_TARGET	MODEL_COORDINATES	MODEL_ZOOM_LEVEL	COMMENT
+overview_main.png	1083,5506 1083,5778 2558,5791 2571,5518	MODEL	Lipid_Metabolism_PM.xml	995,3536	7	Lipid uptake
+overview_main.png	1616,8453 1616,8725 3252,8726 3252,8454	MODEL	Lipid_Metabolism_PM.xml	787,4372	7	Glucose uptake
+overview_main.png	3472,6548 3472,6820 5108,6821 5108,6549	MODEL	Lipid_Metabolism_PM.xml	4901,3717	6	Glycolysis
+overview_main.png	4498,7266 4498,7538 6134,7539 6134,7267	MODEL	Lipid_Metabolism_PM.xml	3837,5019	7	Ketogenesis
+overview_main.png	5731,8210 5731,8346 8644,8371 8644,8210	MODEL	Lipid_Metabolism_PM.xml	2317,5108	6	Mitochondrial Beta-Oxidation
+overview_main.png	5731,8466 5731,8602 8644,8627 8644,8466	MODEL	Lipid_Metabolism_PM.xml	2883,3918	7	Peroxisomal Beta-Oxidation
+overview_main.png	5719,8710 5731,8866 8743,8866 8743,8693	MODEL	Lipid_Metabolism_PM.xml	1523,5602	7	Microsomal Omega-Oxidation
+overview_main.png	6662,4905 6662,5177 9780,5203 9756,4942	MODEL	Lipid_Metabolism_PM.xml	5293,2247	5	Transcriptional regulation
+overview_main.png	3673,2982 3673,3254 5967,3264 5954,2992	MODEL	Lipid_Metabolism_PM.xml	6532,5819	7	Fatty Acid Synthesis
+overview_main.png	4575,1829 4575,2101 7169,2112 7144,1852	MODEL	Lipid_Metabolism_PM.xml	7012,4191	7	Triacylglycerol Synthesis
+overview_main.png	9822,4019 9822,4291 12115,4280 12090,4020	MODEL	Lipid_Metabolism_PM.xml	8313,4019	7	Cholesterol Synthesis
+overview_main.png	11743,2756 11743,2979 12958,2979 12958,2769	MODEL	Lipid_Metabolism_PM.xml	6740,6826	7	Lipid efflux
+overview_main.png	11329,7441 11329,7713 13622,7702 13597,7442	MODEL	Lipid_Metabolism_PM.xml	1475,981	4	Hormonal control
+overview_main.png	7590,1691 7590,1963 9140,1947 9128,1687	MODEL	Lipid_Metabolism_PM.xml	7252,4454	8	Lipid droplet

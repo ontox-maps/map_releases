@@ -1,0 +1,15 @@
+FILE	POLYGON	LINK_TYPE	LINK_TARGET	MODEL_COORDINATES	MODEL_ZOOM_LEVEL	COMMENT
+overview_main.png	4172,8818 2186,8831 2212,8493 4172,8506	MODEL	Liver_Bile_Secretion_PM.xml	11185,5969	7	Cholepatic Shunt
+overview_main.png	6547,1566 6547,1878 7582,1881 7569,1556	MODEL	Glucagon_signaling.xml	1169,809	3	Hormonal regulation
+overview_main.png	5429,1579 5429,1891 6464,1894 6451,1569	MODEL	Insulin_signaling.xml	1169,809	3	Hormonal regulation
+overview_main.png	3089,3347 3089,3659 5067,3642 5080,3344	MODEL	Liver_Bile_Secretion_PM.xml	5586,915	7	Bile acid synthesis
+overview_main.png	9580,3438 9580,3750 11882,3733 11895,3435	MODEL	Liver_Bile_Secretion_PM.xml	3479,919	7	Cholesterol synthesis
+overview_main.png	6777,2008 6777,2320 9079,2303 9092,2005	MODEL	Liver_Bile_Secretion_PM.xml	1652,937	7	Ion exchange
+overview_main.png	10683,1449 10683,1761 12985,1744 12998,1446	MODEL	Liver_Bile_Secretion_PM.xml	1682,4273	7	Lipoprotein uptake
+overview_main.png	11554,8577 11554,8889 13856,8872 13869,8574	MODEL	Liver_Bile_Secretion_PM.xml	4488,5589	7	Lipoprotein efflux
+overview_main.png	9214,4668 9214,4980 11516,4963 11529,4665	MODEL	Gene_regulatory_network_bile_acids.xml	1370,996	4	Transcriptional regulation
+overview_main.png	7226,6082 7226,6394 9528,6377 9541,6079	MODEL	Liver_Bile_Secretion_PM.xml	8474,755	7	Junction dynamics
+overview_main.png	1766,5146 1766,5458 4068,5441 4081,5143	MODEL	Liver_Bile_Secretion_PM.xml	1652,937	7	Bile acid uptake
+overview_main.png	7452,7483 7452,7795 9754,7778 9767,7480	MODEL	Liver_Bile_Secretion_PM.xml	8598,6831	7	Ion exchange (cholangiocyte)
+overview_main.png	4917,7509 4917,7821 7219,7804 7232,7506	MODEL	Liver_Bile_Secretion_PM.xml	8747,6102	8	Reabsorption
+overview_main.png	4592,4292 4592,4604 6894,4587 6907,4289	MODEL	Liver_Bile_Secretion_PM.xml	8083,1873	8	Secretion
