@@ -1,0 +1,32 @@
+# VERSION=1.0
+# NAME=Quantitative Understanding
+# DESCRIPTION= Data quantified by Devon Barnes et al (PubMed:38197913), and prepared by Luiz Ladeira (lcladeira[at]uliege.be) for visualization. Green = High; Light blue = Moderate; Orange = Low; Yellow = Not Specified; reactions without overlay = no data.
+element_identifier	color	description
+id11328	#f9ac71	Low
+id11332	#17a900	High
+id11335	#f9ac71	Low
+id11336	#f9ac71	Low
+id11337	#f9ac71	Low
+id11338	#ecea8c	Not Specified
+id11343	#8cd3ec	Moderate
+id11348	#8cd3ec	Moderate
+id11348	#8cd3ec	Moderate
+id11348	#8cd3ec	Moderate
+id11348	#ecea8c	Not Specified
+id11351	#f9ac71	Low
+id11352	#f9ac71	Low
+id11358	#17a900	High
+id11366	#17a900	High
+id11371	#8cd3ec	Moderate
+id11372	#8cd3ec	Moderate
+id11376	#ecea8c	Not Specified
+id11377	#8cd3ec	Moderate
+id11378	#f9ac71	Low
+id11379	#f9ac71	Low
+id11380	#f9ac71	Low
+id11383	#ecea8c	Not Specified
+id11384	#8cd3ec	Moderate
+id11386	#17a900	High
+id11389	#8cd3ec	Moderate
+id11390	#ecea8c	Not Specified
+id11392	#ecea8c	Not Specified

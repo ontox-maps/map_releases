@@ -1,0 +1,38 @@
+# VERSION=1.0
+# NAME=Weight of Evidence
+# DESCRIPTION= Data Quantified by Devon Barnes et al (PubMed:38197913), and prepared by Luiz Ladeira (lcladeira[at]uliege.be) for visualization. Dark blue = High; Light blue = Moderate; Yellow = Not Specified; reactions without overlay = no data.
+element_identifier	color	description
+id11328	#3c33ff	High
+id11332	#3c33ff	High
+id11335	#3c33ff	High
+id11336	#3c33ff	High
+id11337	#3c33ff	High
+id11338	#ecea8c	Not Specified
+id11343	#8cd3ec	Moderate
+id11348	#3c33ff	High
+id11348	#3c33ff	High
+id11348	#3c33ff	High
+id11348	#ecea8c	Not Specified
+id11351	#3c33ff	High
+id11352	#3c33ff	High
+id11358	#3c33ff	High
+id11359	#3c33ff	High
+id11360	#8cd3ec	Moderate
+id11365	#8cd3ec	Moderate
+id11365	#3c33ff	High
+id11366	#3c33ff	High
+id11366	#3c33ff	High
+id11368	#ecea8c	Not Specified
+id11371	#8cd3ec	Moderate
+id11372	#8cd3ec	Moderate
+id11376	#ecea8c	Not Specified
+id11377	#3c33ff	High
+id11378	#8cd3ec	Moderate
+id11379	#3c33ff	High
+id11380	#ecea8c	Not Specified
+id11383	#8cd3ec	Moderate
+id11384	#8cd3ec	Moderate
+id11386	#3c33ff	High
+id11389	#8cd3ec	Moderate
+id11390	#8cd3ec	Moderate
+id11392	#ecea8c	Not Specified
